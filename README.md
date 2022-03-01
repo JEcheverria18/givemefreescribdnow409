@@ -8,8 +8,8 @@ I'm Juan from the West Coast USA and I am currently working on my graduate resea
 
 - 🎓 &nbsp; Currently writing research project thesis.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing M.S. in Electrical Engineering with an emphasis in control systems
-- ⚡ &nbsp; I studied architecture before engineering
+- ✍️ &nbsp; Pursuing M.S. in Electrical Engineering with an emphasis in control systems.
+- ⚡ &nbsp; I studied architecture before engineering.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
