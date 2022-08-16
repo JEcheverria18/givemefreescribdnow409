@@ -24,6 +24,6 @@ I'm Juan from the West Coast USA and I am currently working on my graduate resea
 <br/>
 
 
-\
+
 
 
