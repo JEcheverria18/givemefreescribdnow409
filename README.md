@@ -1,8 +1,8 @@
 
 
-<h2> Hi there! I'm Juan.</h2>
+<h2> Hi there!</h2>
 
-I'm Juan from the West Coast USA and I am currently working on my graduate research project thesis focused on attention mechanisms and classical control. I really enjoy learning about the most current AI trends as well older ones. Cars are my first passion and I hope to one day soon work for the automotive industry.
+I'm Juan from the West Coast USA and I am currently working on my graduate research project focused on attention mechanisms and classical control. I really enjoy learning about the most current AI trends as well older ones. Other passions include architecture, cars, house projects and the stockmarket.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -24,9 +24,6 @@ I'm Juan from the West Coast USA and I am currently working on my graduate resea
 <br/>
 
 
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+\
 
 
