@@ -2,7 +2,7 @@
 
 <h2> Hi there!</h2>
 
-I'm Juan from the West Coast USA and I am currently working on my graduate research project focused on attention mechanisms and classical control. I really enjoy learning about the most current AI trends as well older ones. Other passions include architecture, cars, house projects and the stockmarket.
+I'm Juan from the West Coast USA I am recent MS graduate that just completed his research project focused on predicting classical control signal with attention mechanism borrowed from LLMs. I really enjoy learning about AI as well quantum computing and hope to one day contribute in this field.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
