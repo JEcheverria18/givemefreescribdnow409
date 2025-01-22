@@ -6,9 +6,8 @@ I'm Juan from the West Coast USA I am recent MS graduate that just completed his
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently writing research project thesis.
+- 🎓 &nbsp; MS in Electrical Engineering.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing M.S. in Electrical Engineering with an emphasis in control systems.
 - ⚡ &nbsp; I studied architecture before engineering.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
